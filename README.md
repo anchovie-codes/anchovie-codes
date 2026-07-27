@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me ...
   - @anchovie (telegram)
-  - [my website](https://anchovie.art)
-  - [tumblr](https://anchoviedraws.tumblr.com/)
+  - [my website](https://anchovie.fish)
 
 <!---
 anchovie-codes/anchovie-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
